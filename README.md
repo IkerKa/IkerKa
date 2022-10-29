@@ -54,7 +54,7 @@ I'm in a course-mix composed with 3rd and 4th subjects, so I'm going to finish m
     * Other videogames i'd like to share with you:
         * *Mirror's Edge Series*
         * *Indie Games: Dead Cells, N++...*
-        * *The Witcher 3*
+        * *Borderlands Series*
         * *TLOU 1 & 2*
         * *PayDay 2*
         * *Dishonored Series*

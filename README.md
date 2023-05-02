@@ -90,9 +90,9 @@ I'm in a course-mix composed with 3rd and 4th subjects, so I'm going to finish m
 
 * Programming, later I'll show a big project I'm working on.
 
-* I'm interested in VideoGames Development, Web Development, Cybersecurity, and Artificial Intelligence.
+* I'm interested in VideoGames Development, Deep learning, Computer Vision, Robotics and Artificial Intelligence.
 
-* I'm in the Computation branch, interested in software development.
+* I'm in the Computation branch, focused in Computer Vision and Robotics.
 
 ### **Tech🖥️** 
 

@@ -11,6 +11,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=IkerKa&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=IkerKa&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=IkerKa&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![wakatime](https://wakatime.com/badge/user/4dff8aaa-deb9-41c3-aa43-98efe6609e37.svg)](https://wakatime.com/@4dff8aaa-deb9-41c3-aa43-98efe6609e37)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=IkerKa&theme=discord&no-frame=false&no-bg=true&margin-w=4)
